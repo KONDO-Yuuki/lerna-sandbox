@@ -1,0 +1,14 @@
+{
+  "name": "main1-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sub1-name": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
