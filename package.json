@@ -1,5 +1,5 @@
 {
-  "name": "redux-console",
+  "name": "lerna-sandbox",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,5 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "lerna": "^2.11.0"
-  }
+  "dependencies": {}
 }
